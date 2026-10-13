@@ -28,3 +28,14 @@ The dataset utilized in this project is sourced from the **WHO Global Health Obs
 1. Clone this repository:
    ```bash
    git clone [https://github.com/ximpgod/Forecasting-Diabetes-Prevalence-in-Indonesia-using-ARIMA.git](https://github.com/ximpgod/Forecasting-Diabetes-Prevalence-in-Indonesia-using-ARIMA.git)
+
+2. Navigate to the project directory:
+   ```bash
+   cd Forecasting-Diabetes-Prevalence-in-Indonesia-using-ARIMA
+
+
+## 👥 Team Members
+This project was collaboratively developed for the Data Science Project course by:   
+1. Irhamna Mahdi (122450049) — Code Implementation & Design   
+2. Alvia Asrinda Br.Ginting (122450077) — Documentation & Report Writing   
+3. Rendra Eka Prayoga (122450112) — Presentation & Communication Material, Github Repository
